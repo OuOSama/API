@@ -5,6 +5,9 @@
 To install the required packages, run the following command:
 
 ```
+git clone https://github.com/OuOSama/API.git
+```
+```
 npm install express puppeteer-core
 ```
 
