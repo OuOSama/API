@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "dependencies": {
+    "express": "^4.21.1",
+    "puppeteer-core": "^23.6.0"
+  },
+  "scripts": {
+    "fuel": "node th-fuel-api.js",
+    "gold": "node th-gold-api.js"
+  }
+}
